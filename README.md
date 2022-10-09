@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatihsaridag
 - 👀 I’m interested in Backend 
 - 🌱 I’m currently learning .Net 
-- 📫 How to reach me  Linkedln :https://lk.tc/ov4rd
+- 📫 How to reach me  Linkedln : linkedin.com/in/fatih-sarıdağ-bbb4301b2
 
 <!---
 fatihsaridag/fatihsaridag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
