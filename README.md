@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatihsaridag
-- 👀 I’m interested in ...
+- 👀 I’m interested in Backend 
 - 🌱 I’m currently learning .Net 
 - 📫 How to reach me  fatihsaridag26@gmail.com
 
